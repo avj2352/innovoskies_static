@@ -1,0 +1,53 @@
+#textContent{
+		/*border: 1px solid gold;*/
+		width: 80%;
+		margin: 10px auto;
+		
+
+		color: #fff;
+		font-size: 15px;
+		letter-spacing: 1px;
+		text-shadow: 2px 2px 2px #000;
+	}
+
+
+
+
+#galleryHeader span.last{
+	display: inline-block;
+	background: url(../images/yellow_strip.png);
+	width: 115px;
+	height: 9px;
+	margin: 0 0 0 6px;
+}
+
+#galleryHeader span.first{
+	display: inline-block;
+	background: url(../images/yellow_strip.png);
+	width: 70px;
+	height: 9px;
+	margin: 0 6px 0 0;
+}
+
+#contactHeader span.last{
+	display: inline-block;
+	background: url(../images/yellow_strip.png);
+	width: 170px;
+	height: 9px;
+	margin: 0 0 0 6px;
+}
+
+#contactHeader span.first{
+	display: inline-block;
+	background: url(../images/yellow_strip.png);
+	width: 130px;
+	height: 9px;
+	margin: 0 6px 0 0;
+}
+
+#gallerySection{
+	/*border: 1px solid white;*/
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+}
